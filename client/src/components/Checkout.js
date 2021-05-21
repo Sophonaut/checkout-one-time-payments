@@ -124,7 +124,7 @@ const Checkout = () => {
         </header>
         <section className="container">
           <div>
-            <h1>Persona </h1>
+            <h1>Persona Pass</h1>
             <h4>Purchase a pass to take the Big Five Personality test, the most rigorous personality test there is!</h4>
             <div className="pasha-image">
               <img
